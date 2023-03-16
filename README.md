@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juliodonofreo
 - 👀 I’m interested in software development and data analysis
-- 🌱 I’m currently learning analysis and development of system, python specially
+- 🌱 I’m currently learning analysis and development of system, python and java specially
 - 📫 How to reach me (11)93431-1580
 
 <!---
